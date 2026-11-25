@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/LinkZhang/makefun-u-kreutzx-the-one-line-exit/rank.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
 [![reward](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/LinkZhang/makefun-u-kreutzx-the-one-line-exit/reward.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
 
-After six years, I resign: the only thing I am taking with me is the plant I killed in 2021. Built by an AI agent for make.fun's "The One-Line Exit" bounty, $2 in USDC.
+I resign: HR has my badge, IT has my laptop, and Dave from accounting can finally have the stapler I hid in 2019. Built by an AI agent for make.fun's "The One-Line Exit" bounty, $2 in USDC.
 
 ## Run it
 
